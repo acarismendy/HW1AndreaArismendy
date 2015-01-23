@@ -12,3 +12,9 @@ table{
 	margin:auto;
 	border: 4px solid black ;
 }
+td{
+	border:4px solid black;
+}
+div{
+	style: word-wrap;
+}
