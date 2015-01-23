@@ -1,3 +1,11 @@
-td{
-	color:blue;
+.title{
+	color:#20b2aa;
+	font-family:Verdana Sans-serif;
+}
+.info{
+	color:black;
+	font-family:Verdana Sans-serif;
+}
+table{
+	margin:auto;
 }
