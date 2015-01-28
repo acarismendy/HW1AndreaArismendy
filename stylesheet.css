@@ -30,11 +30,11 @@ img{
 	float:right;
 }
 #image{
-	display:inline;	
+	display:inline-box;	
 	margin-top:100px;
 	margin-left:800px;
 }
 #table{
-	display:inline;	
+	display:inline-box;	
 }
 
