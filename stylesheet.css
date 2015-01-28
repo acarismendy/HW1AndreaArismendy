@@ -1,3 +1,7 @@
+h1{
+	text-align:center;
+	display:block;
+}
 .highlight{
 	color:#383838;
 	font-family:Verdana Sans-serif;
@@ -8,14 +12,19 @@
 }
 table{
 	margin:auto;
-	width:100%;
 	border-collapse:collapse;
 	border:none;
+	display:inline-block;
+	float:left;
 	
 }
 td{
 	border:none;
 	text-align:center;
 	margin:auto;
+}
+img{
+	display:inline-block;
+	float:right;
 }
 
