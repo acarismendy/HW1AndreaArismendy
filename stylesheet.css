@@ -24,7 +24,7 @@ td{
 	margin:auto;
 }
 img{
-	display:none;
+	display:inline;
 	float:right;
 	width:200px;
 	margin-top:100px;
