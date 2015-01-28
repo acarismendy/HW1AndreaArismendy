@@ -1,25 +1,14 @@
-.title{
+.highlight{
 	color:#383838;
 	font-family:Verdana Sans-serif;
 	text-align:center;
-	background-color:#8f9194;
+	background-color:#bcfae5;
 }
-.info{
-	color:black;
-	font-family:Verdana Sans-serif;
-	text-align:center;
 }
 table{
 	margin:auto;
 	margin-top:100px;
-	border: 2px solid black ;
-	width:600px;
+	width:1000px;
 	border-collapse:collapse;
 }
-td{
-	border:2px solid black;
-	border-collapse:collapse;
-}
-div{
-	style: word-wrap;
-}
+
