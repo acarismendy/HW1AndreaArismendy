@@ -1,1 +1,33 @@
 
+h1{
+	text-align:center;
+	display:block;
+}
+.highlight{
+	color:#383838;
+	font-family:Verdana Sans-serif;
+	text-align:center;
+	background-color:#bcfae5;
+	margin:auto;
+}
+}
+table{
+	margin:auto;
+	border-collapse:collapse;
+	border:none;
+	display:none;
+
+	
+}
+td{
+	border:none;
+	text-align:center;
+	margin:auto;
+}
+img{
+	display:inline;
+	width:200px;
+	margin:0;
+	padding:0;
+	float:right;
+}
