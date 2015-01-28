@@ -1,1 +1,1 @@
-# HW1AndreaArismendy
+# HW1AndreaArismendy: Profile for the course Data Visualization
