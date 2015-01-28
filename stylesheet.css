@@ -8,9 +8,10 @@
 }
 table{
 	margin:auto;
-	width:700px;
+	width:100%;
 	border-collapse:collapse;
 	border:none;
+	
 }
 td{
 	border:none;
