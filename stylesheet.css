@@ -30,6 +30,8 @@ img{
 }
 #image{
 	display:inline;	
+	margin-top:100px;
+	margin-left:800px;
 }
 #table{
 	display:inline;	
