@@ -14,7 +14,7 @@ table{
 	margin:auto;
 	border-collapse:collapse;
 	border:none;
-	display:inline-block;
+	display:inline;
 	float:left;
 	
 }
@@ -24,7 +24,8 @@ td{
 	margin:auto;
 }
 img{
-	display:inline-block;
+	display:inline;
 	float:right;
+	width:200px;
 }
 
